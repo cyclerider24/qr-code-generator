@@ -1,7 +1,5 @@
 ### **QR Code Generator Web App**  
 
-![QR Code Generator](https://your-image-url.com) 
-
 🚀 A simple and customizable **QR Code Generator** built using **React, Vite, and Tailwind CSS**. This open-source tool allows users to generate QR codes with different styles, colors, and formats (PNG, JPG, SVG).  
 
 ---
