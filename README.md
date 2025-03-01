@@ -1,8 +1,74 @@
-# React + Vite
+### **QR Code Generator Web App**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![QR Code Generator](https://your-image-url.com) 
 
-Currently, two official plugins are available:
+🚀 A simple and customizable **QR Code Generator** built using **React, Vite, and Tailwind CSS**. This open-source tool allows users to generate QR codes with different styles, colors, and formats (PNG, JPG, SVG).  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## **✨ Features**  
+✅ Generate QR codes instantly  
+✅ Customize QR dot styles, colors, and margins  
+✅ Upload logos for branding  
+✅ Supports **PNG, JPG, and SVG** downloads  
+✅ Dark mode support 🌙  
+
+---
+
+## **🛠 Tech Stack**  
+- **Frontend:** React (Vite), Tailwind CSS  
+- **QR Code Library:** `qr-code-styling`  
+- **Icons:** `lucide-react`  
+
+---
+
+## **🚀 Installation & Setup**  
+
+### **1️⃣ Clone the Repository**  
+```bash
+git clone https://github.com/yourusername/qr-code-generator.git
+cd qr-code-generator
+```
+
+### **2️⃣ Install Dependencies**  
+```bash
+npm install
+```
+
+### **3️⃣ Run the Application**  
+```bash
+npm run dev
+```
+_(The app will be available at `http://localhost:5173/`)_
+
+---
+
+## **🔮 Future Enhancements**  
+- ✅ **Scanning functionality** (coming soon)  
+- ✅ **User authentication for history tracking**  
+- ✅ **More customization options (Gradients, Backgrounds, etc.)**  
+
+---
+
+## **📜 License**  
+This project is open-source under the **MIT License**.  
+
+---
+
+## **🤝 Contributing**  
+Contributions are welcome! Feel free to open issues or submit pull requests.  
+
+---
+
+## **⭐ Show Some Love!**  
+If you like this project, don’t forget to **star** ⭐ the repository on GitHub!  
+
+---
+
+### **📩 Contact**  
+📧 loyolaseba2004@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/loyola-seba/)
+
+---
+
+Once you're done editing, save this as **`README.md`** and push it to your GitHub repository! Let me know if you need any changes. 🚀🔥
