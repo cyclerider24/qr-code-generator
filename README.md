@@ -66,7 +66,3 @@ If you like this project, don’t forget to **star** ⭐ the repository on GitHu
 ### **📩 Contact**  
 📧 loyolaseba2004@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/loyola-seba/)
-
----
-
-Once you're done editing, save this as **`README.md`** and push it to your GitHub repository! Let me know if you need any changes. 🚀🔥
